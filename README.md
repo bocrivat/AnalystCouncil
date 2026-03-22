@@ -95,7 +95,7 @@ User: "I'm launching a real-time collaboration feature for our design tool. Comp
 
 ### Updating an Existing Strategy
 ```
-User: "Update the FabricRealtime strategy with new competitor pricing data."
+User: "Update the Fabric strategy with new competitor pricing data."
 ```
 
 ## Research Tools
